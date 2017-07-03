@@ -1,5 +1,6 @@
 127.0.0.1 acbe.aasky.net
 127.0.0.1 active.dji.com
+127.0.0.1 adash.m.taobao.com
 127.0.0.1 adhoc-usa.djicdn.com
 127.0.0.1 adhoc-usa.djiservice.org
 127.0.0.1 adhoc.djiservice.org
